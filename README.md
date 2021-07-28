@@ -1,4 +1,4 @@
-# Computer Science - Machine Learning - Quant Finance
+# CS ; ML ; QF
 
 - 👋 Hi, I’m @CatalaniCD
 - 👀 I’m interested in Quant Finance, Algorithmic Trading, and Machine Learning
