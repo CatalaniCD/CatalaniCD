@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @CatalaniCD
 - 👀 I’m interested in Quant Finance, Algorithmic Trading, and Machine Learning
-- 🌱 I’m currently learning Computer Science.
+- 🌱 I’m currently studying Computer Science & Math Methods for Quant Finance.
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 📫 How to reach me LinkedIn.
 
