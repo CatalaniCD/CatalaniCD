@@ -4,7 +4,7 @@
 - 👀 I’m interested in Quant Finance, Algorithmic Trading, and Machine Learning
 - 🌱 I’m currently studying Computer Science & Math Methods for Quant Finance.
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
-- 📫 How to reach me >>> [LinkedIn](https://www.linkedin.com/in/claudio-dami%C3%A1n-catalani-0bb814181/) >>> [UpWork](https://www.upwork.com/freelancers/claudiocatalani).
+- 📫 How to reach me >>> Click Here >>> [LinkedIn](https://www.linkedin.com/in/claudio-dami%C3%A1n-catalani-0bb814181/) >>> [UpWork](https://www.upwork.com/freelancers/claudiocatalani).
 
 <!---
 CatalaniCD/CatalaniCD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
