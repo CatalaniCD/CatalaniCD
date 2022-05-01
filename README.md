@@ -8,7 +8,10 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catalanicd)]
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catalanicd)
 
 <!---
 CatalaniCD/CatalaniCD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
