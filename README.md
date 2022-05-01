@@ -6,7 +6,9 @@
 - 💞️ I’m looking to collaborate on Algorithmic Trading & Machine Learning Projects.
 - 📫 How to reach me >>> Click Here >>> [LinkedIn](https://www.linkedin.com/in/claudio-dami%C3%A1n-catalani-0bb814181/) >>> [UpWork](https://www.upwork.com/freelancers/claudiocatalani).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catalanicd)]
 
 <!---
 CatalaniCD/CatalaniCD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
