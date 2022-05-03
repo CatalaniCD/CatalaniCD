@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on Algorithmic Trading & Machine Learning Projects.
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/claudio-dami%C3%A1n-catalani-0bb814181/)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](catalaniclaudiodamian@gmail.com)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:catalaniclaudiodamian@gmail.com)
 [![Visits](https://komarev.com/ghpvc/?username=CatalaniCD&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/CatalaniCD)
 
 ## 
