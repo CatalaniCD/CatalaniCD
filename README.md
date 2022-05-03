@@ -1,5 +1,9 @@
 # CS . ML . QF
 
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+
+##
+
 - 👋 Hi, I’m @CatalaniCD
 - 👀 I’m interested in Quant Finance, Algorithmic Trading, and Machine Learning
 - 🌱 I’m currently studying Computer Science & Math Methods for Quant Finance.
