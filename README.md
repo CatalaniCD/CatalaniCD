@@ -13,7 +13,7 @@ systems and build infrastructure that holds up in live markets.
 
 **Stack:** Python · NumPy/Pandas · Scikit-Learn · Keras/TF · XGBoost ·
 VectorBT · Zipline · PyPortfolioOpt · ccxt · Glassnode · Polygon.io ·
-IBKR API · PostgreSQL · Docker · AWS/GCP
+IBKR API · PostgreSQL · Docker · Cloudflare
 
 **Credentials:** MIT (15.455x, 15.415x, 6.86x) · Oxford Algorithmic Trading ·
 RWTH Reinforcement Learning · 10+ years in live markets · $10M+ AUM served
