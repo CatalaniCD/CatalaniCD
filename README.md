@@ -1,19 +1,29 @@
-# CS . ML . QF
+## Claudio Catalani — Quant Finance Solutions
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+Independent quantitative consultant. I help systematic traders, crypto funds,
+and small quant operations identify structural weaknesses in their trading
+systems and build infrastructure that holds up in live markets.
 
-##
+**What I work on:**
+- Strategy robustness diagnostics — overfitting, drawdown fragility, regime blindness
+- ML-augmented signal engineering — XGBoost, LSTM, ensemble methods
+- Risk decomposition and Sharpe architecture
+- Backtest-to-live gap analysis — slippage, funding rates, execution modeling
+- Systematic trading infrastructure — execution pipelines, monitoring, cloud deployment
 
-- 👋 Hi, I’m Claudio Catalani
-- 👀 I’m interested in Quant Finance, Algorithmic Trading, and Machine Learning
-- 🌱 I’m currently studying Computer Science & Math Methods for Quant Finance.
-- 💞️ I’m looking to collaborate on Algorithmic Trading & Machine Learning Projects.
+**Stack:** Python · NumPy/Pandas · Scikit-Learn · Keras/TF · XGBoost ·
+VectorBT · Zipline · PyPortfolioOpt · ccxt · Glassnode · Polygon.io ·
+IBKR API · PostgreSQL · Docker · AWS/GCP
 
-## 
+**Credentials:** MIT (15.455x, 15.415x, 6.86x) · Oxford Algorithmic Trading ·
+RWTH Reinforcement Learning · 10+ years in live markets · $10M+ AUM served
 
-**Backend Developer specialized in Quantitative Finance and Algorithmic Trading with 169+ Years background**. Experienced in building apps, pipelines and infrastructure for startup hedge funds. Skilled in Python, Bash, Test-Driven Development, Cloud, IT Automation, Data Analysis, and Deep Learning and Machine Learning. I feel comfortable solving complex problems, using agile development techniques, optimizing code, and doing technical mentorship. Looking for challenging projects to deliver high value software.
+**Engagements:** Structured consulting — assessment → implementation → advisory.
+Max 3 concurrent clients. Remote-first. ACH / SWIFT / USDC.
 
-##
+📍 Argentina → Global
+🌐 [quant-solutions.pages.dev](https://quant-solutions.pages.dev)
+✉️ catalaniclaudiodamian@gmail.com
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/claudio-dami%C3%A1n-catalani-0bb814181/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:catalaniclaudiodamian@gmail.com)
