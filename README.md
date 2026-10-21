@@ -1,6 +1,6 @@
 # Claudio Catalani
 
-**Quantitative Developer & Trader · AI & High-Performance Systems · Forward Deployed Engineer**
+**Quantitative Developer & Trader · AI Engineer & High-Performance Systems · Forward Deployed Engineer**
 
 I design, build, and run production systems at the intersection of **quantitative finance, agentic AI, and real-time infrastructure**. 6+ years in live markets. Former Argentine Navy officer. MIT MicroMasters (Finance & Data Science, in progress) · Oxford Algorithmic Trading Programme.
 
