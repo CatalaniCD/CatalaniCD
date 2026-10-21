@@ -77,7 +77,7 @@ AI-powered quantitative research and trading systems. Full ownership: data pipel
 - Building **Quant-Studio** — AI-native quantitative research and trading infrastructure
 - Deepening **agentic AI** deployment patterns for finance and operations
 - Finishing **MIT MicroMasters** in Finance and Data Science
-- Open to **Quant Developer / Quant Researcher / Quant Trader** roles and select consulting engagements
+- Open to **Quant Developer / Quant Researcher / Quant Trader / FDE / AI Engineer** roles and select consulting engagements
 
 ---
 
